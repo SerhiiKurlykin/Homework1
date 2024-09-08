@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    padding-bottom: 40px;
+}
+
+.first_block{
+    background-color:  #F8F8F8;
+    padding: 104px 0 168px;
+    margin-bottom: 40px;
+    
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .first_blockelem{
+    display: flex;
+    justify-content: space-between;
+    
+  }
+
+  .description{
+    
+    max-height: 720px;
+  }
+
+  .m705{
+    display: block;
+    font-weight: lighter;
+    font-size: 24px;
+    margin-bottom: 48px;
+    color: #272727;
+  }
+
+  .bigwatch{
+    margin-bottom: 42px;
+    font-family: League Spartan;
+    font-size: 250px;
+    font-weight: 300;
+    line-height: 230px;
+    text-align: left;
+
+  }
+
+  .text1{
+    margin-bottom: 50px;
+    font-family: League Spartan;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 49.6px;
+    text-align: left;
+    width: 575px;
+    height: 142px;
+    top: 447px;
+    left: 135px;
+    gap: 0px;
+    opacity: 0px;
+
+
+  }
+
+  .buttonblock{
+    display: flex;
+    align-items: center;
+    
+    height: 82px;
+  }
+
+.Buy_watch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #272727;
+    border: 1px solid #272727;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 300;
+    font-family: League Spartan;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 29.44px;
+    text-align: left;
+    padding: 15px 30px;
+
+}
+
+.Buy_watch:hover{
+    background-color: aqua;
+    color: #272727;
+}
+
+.price{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #fff;
+    font-size: 32px;
+    font-weight: 300;
+    padding: 2px 15px;
+    font-family: League Spartan;
+  
+    font-weight: 300;
+    line-height: 59.52px;
+   
+
+}
+
+.firstwatchimage{
+    object-fit: cover;
+}
+
+
+.popularsubtitle{
+    font-family: League Spartan;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 44.64px;
+    text-align: center;
+    margin-right: 110px;
+}
+
+.populartitle{
+    font-family: League Spartan;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 81px;
+    text-align: center;
+    margin-right: 110px;
+}
+
+.pop_elements{
+    margin: 0 auto;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.popularimages1{
+    width: 350px;
+    height: 530px;
+    
+    background-color: #F8F8F8;
+    padding: 80px 60px 110px 0px; 
+    margin: 0px 0px 80px 42px;
+    
+    
+}
+
+
+
+
+.popularimages2{
+    width: 417px;
+    height: 530px;
+    
+    background-color: #F8F8F8;
+   
+}
+
+.popularimages1 img{
+    margin-left: 40px;
+}
+
+.popularimages{
+    width: 100%;
+    height: 100%;
+    object-fit: contain; 
+}
+
+.popularimages2 img{
+margin-left: -40px;
+}
+.popularmodelname1{
+    font-family: League Spartan;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 29.44px;
+    text-align: center;
+    margin: 0px 120px 0px 17px
+
+}
+
+.popularmodelsdescription{
+    width: 520px;
+    margin: 0 auto;
+    font-family: League Spartan;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 49.6px;
+    text-align: center;
+
+}
+
+.popularmodelname2{
+    font-family: League Spartan;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 29.44px;
+    text-align: center;
+    margin: 67px 120px 0px 17px
+}
+
+
+.Product_description{
+    width: 520px;
+    margin: 0 auto;
+
+}
+
+.Product_description_title{
+    font-family: League Spartan;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 59.52px;
+    text-align: center;
+    margin: 59px 0px 48px 0px;
+    
+}
+
+.Product_description_text{
+    font-family: League Spartan;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 40.8px;
+    text-align: center;
+    margin-bottom: 142px;
+
+}
+
+.line{
+    width: 178.03px;
+    margin: -50px 166px 49px 165px;
+    border: 1px solid #707070
+    
+}
+
+.product-description__link{
+    font-size: 24px;
+    font-weight: 500;
+    color: burlywood;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
